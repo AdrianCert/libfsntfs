@@ -1,5 +1,5 @@
 # Build wheel from source using tox.
-name: build_wheel
+name: build_wheels
 on: [push, pull_request]
 permissions: read-all
 jobs:
